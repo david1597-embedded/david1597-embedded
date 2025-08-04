@@ -29,36 +29,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-FF6F00?style=flat&logo=ai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
-
----
-
-## 📂 주요 프로젝트
-### 1. 🤖 비전 및 객체 인식 , 분류 기반 팔로잉 로봇카  
-[🔗 저장소 바로가기](https://github.com/david1597-embedded/aumo_reco_project)  
-- **기능**: 카메라 기반 객체 인식 → 손동작으로 실시간 추종 제어  
-- **기술 스택**: OpenCV, Python, RPi.GPIO  
-- **특징**: 비전 기반 회전각·거리 데이터 측정, 손동작 분류 알고리즘과 결합해 다양한 로봇카 제어  
-
----
-
-### 2. 🏢 SCAN 알고리즘 기반 엘리베이터 제어 시스템  
-[🔗 저장소 바로가기](https://github.com/david1597-embedded/elevatorproject)  
-- **기능**: **SCAN 알고리즘**을 이용한 효율적인 엘리베이터 요청 처리  
-- **기술 스택**: C, 상태머신, 스테퍼 모터 제어  
-- **특징**: 방향 우선 제어, 큐 기반 요청 관리 시스템 구축  
-
----
-
-### 3. 🚗 CAN 통신 기반 자동차 대시보드  
-[🔗 저장소 바로가기](https://github.com/david1597-embedded/can_project)  
-- **기능**: CAN 통신으로 차량 속도·방향 데이터를 수집 후 대시보드 출력  
-- **기술 스택**: C, CAN Protocol, STM32, ILI9341 TFT LCD  
-- **특징**: 속도·RPM·조향 각 등 실시간 표시  
+![YOLO](https://img.shields.io/badge/YOLO-FF6F00?style=flat&logo=ai&logoC현
 
 ---
 
@@ -66,7 +37,7 @@
 [🔗 저장소 바로가기](https://github.com/david1597-embedded/parkinglot_project)  
 - **기능**: 웹서버 연동을 통한 주차 공간 상태 실시간 조회  
 - **기술 스택**: C, 네트워크 통신, SQL, Flask, Android Studio  
-- **특징**: 안드로이드 앱·DB 서버 연동, 플래그 기반 멀티태스킹 시스템 구현  
+- **특징**: 안드로이드 앱·DB 서버 연동, 비동기 구현을 위한 다중 타이머 사용
 
 ---
 
