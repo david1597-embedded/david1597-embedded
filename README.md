@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 임베디드 시스템 개발자 David입니다
+# 👋 안녕하세요, 임베디드 개발자가 되기 위해 공부하는 문병일입니다.
 
 ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff)
 
@@ -10,14 +10,14 @@
 ---
 
 ## 🛠 기술 스택
-**언어 & 툴**  
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-000000?style=flat&logo=arduino&logoColor=white)
-![CAN](https://img.shields.io/badge/CAN%20Bus-228B22?style=flat&logo=protocol&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-FF6F00?style=flat&logo=ai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 
 ---
 
@@ -55,17 +55,14 @@
 
 ---
 
-## 📊 GitHub 활동 통계
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=david1597-embedded&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david1597-embedded&layout=compact&theme=tokyonight)
-
----
-
 ## 🏆 성과 및 활동
-![trophy](https://github-profile-trophy.vercel.app/?username=david1597-embedded&theme=onedark)
+![Gold Award](https://img.shields.io/badge/졸업%20프로젝트-금상-FFD700?style=for-the-badge&logo=medal&logoColor=white)
+![Silver Award](https://img.shields.io/badge/Intel%20Edge%20AI%20SW%20아카데미%20프로젝트-은상-C0C0C0?style=for-the-badge&logo=intel&logoColor=white)
 
 ---
 
-## 🔗 연락처
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+## 🔗 연락처 & 블로그
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kkhyun3131@gmail.com)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@david1597/posts)
+
+
