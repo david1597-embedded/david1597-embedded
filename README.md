@@ -53,14 +53,33 @@
 ### 3. 🚗 CAN 통신 기반 자동차 대시보드  
 [🔗 저장소 바로가기](https://github.com/david1597-embedded/can_project)  
 - **기능**: CAN 통신으로 차량 속도·방향 데이터를 수집 후 대시보드 출력  
-- **기술 스택**: C, CAN Protocol, STM32, ILI9341 TFT LCD  
-- **특징**: 속도·RPM·조향 각 등 실시간 표시, 멀티태스킹을 위한 플래그 기반 구현  
+- **기술 스택**: C, CAN Protocol, STM32, ILI9341 TFT LCD , TCP/IP, Linux
+- **특징**: 속도·RPM·조향 각 등 실시간 표시, 멀티태스킹을 위한 플래그 기반 구현
+
+---
 
 ### 4. 🅿️ 서버 연동 주차장 상태 열람 시스템  
 [🔗 저장소 바로가기](https://github.com/david1597-embedded/parkinglot_project)  
 - **기능**: 웹서버 연동을 통한 주차 공간 상태 실시간 조회  
 - **기술 스택**: C, 네트워크 통신, SQL, Flask, Android Studio  
 - **특징**: 안드로이드 앱·DB 서버 연동, 비동기 구현을 위한 다중 타이머 사용
+
+
+---
+
+### 5. 🎮 자연어 처리 기반 스팀 게임 추천기 
+[🔗 저장소 바로가기](https://github.com/david1597-embedded/game_recommendation)  
+- **기능**: 스팀 무료 게임 설명을 바탕으로 자연어 처리를 기반으로 한 무료 게임 추천 시스템
+- **기술 스택**: TF-IDF, Python, Word2Vec , PyQt5
+- **특징**: PyQt5를 활용한 직관적인 GUI, 자연어 처리를 기반으로 한 컨텐츠 추천 시스템, WebView를 통한 게임 미리보기 기능
+
+---
+
+### 🚗 6. 자동차 외관 손상 탐지 시스템
+[🔗 저장소 바로가기]
+- **기능**: 객체 탐지 모델을 활용한 자동차 외관 손상 감지 시스템
+- **기술 스택**: Python , EfficientDet, Tensorflow, SSD-MobileNet
+- **특징**: PyQt5를 활용한 직관적인 GUI, 원본 이미지 영상처리 기능, 모델 간 성능 비교 기능 , 수동모드 자동모드 제공
 
 ---
 
