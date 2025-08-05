@@ -83,6 +83,14 @@
 
 ---
 
+### 🚗 7. 6DOF 매니퓰레이터 도달 여부 가능 판단 소프트웨어 (진행중)
+[🔗 저장소 바로가기]
+- **기능**: 평면 좌표가 주어졌을 때 그 좌표에 End-Effector가 도달 가능한지 판단하는 소프트웨어 개발
+- **기술 스택**: DH-parameter, 역기구학, Python, Jacobian
+- **특징**: 
+
+---
+
 ## 🏆 성과 및 활동
 ![Gold Award](https://img.shields.io/badge/졸업%20프로젝트-금상-FFD700?style=for-the-badge&logo=medal&logoColor=white)
 ![Silver Award](https://img.shields.io/badge/Intel%20Edge%20AI%20SW%20아카데미%20프로젝트-은상-C0C0C0?style=for-the-badge&logo=intel&logoColor=white)
