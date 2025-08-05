@@ -29,7 +29,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-FF6F00?style=flat&logo=ai&logoC현
+![YOLO](https://img.shields.io/badge/YOLO-FF6F00?style=flat&logo=ai&logoC)
 
 ---
 
